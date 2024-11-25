@@ -4,7 +4,7 @@
 python
 output_dir = "downloaded_images"
 if not os.path.exists(output_dir):
-    os.makedirs(output_dir
+    os.makedirs(output_dir)
 
 목적: 이미지를 저장할 디렉토리를 생성합니다.
 output_dir는 저장할 기본 디렉토리 경로입니다.
